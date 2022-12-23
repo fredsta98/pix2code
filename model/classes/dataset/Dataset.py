@@ -2,7 +2,7 @@ from __future__ import print_function
 __author__ = 'Tony Beltramelli - www.tonybeltramelli.com'
 
 import os
-
+import numpy as np
 from classes.Vocabulary import *
 from classes.Utils import *
 from classes.model.Config import *
